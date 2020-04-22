@@ -25,7 +25,7 @@ SECRET_KEY = 'exhe6t&re7!8$(jcs(%i+hmm6!$wiai-ttfj%+!@6_+0=-23&b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["jokerjudge.pythonanywhere.com"]
 
 
 # Application definition
