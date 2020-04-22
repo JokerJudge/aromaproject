@@ -1,0 +1,191 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-19 18:49+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\templates\aroma\base.html:36 .\templates\aroma\base.html:107
+msgid "HomePage"
+msgstr "Home"
+
+#: .\templates\aroma\base.html:39 .\templates\aroma\base.html:108
+msgid "Shop"
+msgstr "Shop"
+
+#: .\templates\aroma\base.html:41
+msgid "Shop Category"
+msgstr "Shop Category"
+
+#: .\templates\aroma\base.html:42
+msgid "Product Details"
+msgstr "Product Details"
+
+#: .\templates\aroma\base.html:43
+msgid "Product Checkout"
+msgstr "Product Checkout"
+
+#: .\templates\aroma\base.html:44
+msgid "Confirmation"
+msgstr "Confirmation"
+
+#: .\templates\aroma\base.html:45
+msgid "Shopping Cart"
+msgstr "Shopping Cart"
+
+#: .\templates\aroma\base.html:50 .\templates\aroma\base.html:52
+#: .\templates\aroma\base.html:109
+msgid "Blog"
+msgstr "Blog"
+
+#: .\templates\aroma\base.html:53
+msgid "Blog Details"
+msgstr "Blog Details"
+
+#: .\templates\aroma\base.html:58
+msgid "Pages"
+msgstr "Pages"
+
+#: .\templates\aroma\base.html:60
+msgid "Login"
+msgstr "Login"
+
+#: .\templates\aroma\base.html:61
+msgid "Register"
+msgstr "Register"
+
+#: .\templates\aroma\base.html:62
+msgid "Tracking"
+msgstr "Tracking"
+
+#: .\templates\aroma\base.html:65 .\templates\aroma\base.html:112
+msgid "Contact"
+msgstr "Contact"
+
+#: .\templates\aroma\base.html:71
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: .\templates\aroma\base.html:93
+msgid "Our Mission"
+msgstr "Our Mission"
+
+#: .\templates\aroma\base.html:105
+msgid "Quick Links"
+msgstr "Quick Links"
+
+#: .\templates\aroma\base.html:110 .\templates\aroma\index.html:53
+msgid "Product"
+msgstr "Product"
+
+#: .\templates\aroma\base.html:111
+msgid "Brand"
+msgstr "Brand"
+
+#: .\templates\aroma\base.html:118
+msgid "Gallery"
+msgstr "Gallery"
+
+#: .\templates\aroma\base.html:135
+msgid "Head Office"
+msgstr "Head Office"
+
+#: .\templates\aroma\base.html:141
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: .\templates\aroma\index.html:21
+msgid "Shop is fun"
+msgstr "Shop is fun"
+
+#: .\templates\aroma\index.html:22
+msgid "Browse Our Premium Product"
+msgstr "Browse Our Premium Product"
+
+#: .\templates\aroma\index.html:23
+msgid ""
+"Us which over of signs divide dominion deep fill bring theyre meat beho upon "
+"own earth without morning over third. Their male dry. They are great appear "
+"whose land fly grass."
+msgstr ""
+
+#: .\templates\aroma\index.html:24
+msgid "Browse Now"
+msgstr "Browse Now"
+
+#: .\templates\aroma\index.html:40
+msgid "Aweeeeesome!"
+msgstr "Aweeeeesome!"
+
+#: .\templates\aroma\index.html:52 .\templates\aroma\index.html:104
+msgid "Popular Item in the market"
+msgstr "Popular Item in the market"
+
+#: .\templates\aroma\index.html:53
+msgid "Trending"
+msgstr "Trending"
+
+#: .\templates\aroma\index.html:89
+#, python-format
+msgid "Up To 50%% Off"
+msgstr "Up To 50%% Off"
+
+#: .\templates\aroma\index.html:90
+msgid "Winter Sale"
+msgstr "Winter Sale"
+
+#: .\templates\aroma\index.html:91
+msgid "Him shed let them sixth saw light"
+msgstr "Him she'd let them sixth saw light"
+
+#: .\templates\aroma\index.html:92
+msgid "Shop Now"
+msgstr "Shop Now"
+
+#: .\templates\aroma\index.html:105
+msgid "Best"
+msgstr "Best"
+
+#: .\templates\aroma\index.html:105
+msgid "Sellers"
+msgstr "Sellers"
+
+#: .\templates\aroma\index.html:137 .\templates\aroma\index.html:138
+msgid "News"
+msgstr "News"
+
+#: .\templates\aroma\index.html:138
+msgid "Latest"
+msgstr "Latest"
+
+#: .\templates\aroma\index.html:155
+msgid "Read More"
+msgstr "Read More"
+
+#: .\templates\aroma\index.html:170
+msgid "Get Update From Anywhere"
+msgstr "Get Update From Anywhere"
+
+#: .\templates\aroma\index.html:171
+msgid "Bearing Void gathering light light his eavening unto dont afraid"
+msgstr "Bearing Void gathering light light his eavening unto dont afraid"
+
+#: .\templates\aroma\index.html:178
+msgid "Subscribe Now"
+msgstr "Subscribe Now"
+
+#~ msgid "Us which over of signs divide dominion deep fill bring they"
+#~ msgstr "Us which over of signs divide dominion deep fill bring they"
